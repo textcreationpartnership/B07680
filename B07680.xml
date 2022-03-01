@@ -1,0 +1,610 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rule of the religious, of the thirde order of Saint Francis, both sexes, making the three vouues, and liuing together in communitie and cloyster.  VVith certaine other things vvhich the leaf following doth shevve..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 50 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07680</idno>
+            <idno type="OCLC"> 166384436</idno>
+            <idno type="STC">STC 11314.6</idno>
+            <idno type="STC">ESTC S92578</idno>
+            <idno type="EEBO-CITATION">166384436</idno>
+            <idno type="OCLC">ocn 166384436</idno>
+            <idno type="VID">191555</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191555)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2272:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rule of the religious, of the thirde order of Saint Francis, both sexes, making the three vouues, and liuing together in communitie and cloyster.  VVith certaine other things vvhich the leaf following doth shevve..</title>
+                  <author>Francis, of Assisi, Saint, 1182-1226.</author>
+                  <author>Third Order Regular of St. Francis.</author>
+               </titleStmt>
+               <extent>93, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Ihon Penitents, at the golden [Bible],</publisher>
+                  <pubPlace>At Bruxelles, :</pubPlace>
+                  <date>1624..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Suggested by STC (2nd ed.) as being translation; title of original unknown.</note>
+                  <note>Attributed to St. Francis of Assisi.  Cf. STC (2nd ed.).</note>
+                  <note>Headpieces, tailpieces, initials, printed marginalia; IHS with maltese cross on t.p.</note>
+                  <note>Imperfect: stained with loss of text from imprint.</note>
+                  <note>Signatures: A-E⁸ F⁷.</note>
+                  <note>Reproduction of original in: British Library.</note>
+                  <note>Text in English with "Litaniae B. P. N. S. Francisci" in Latin at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Third Order Regular of St. Francis --  Rules --  Early works to 1800.</term>
+               <term>Monasticism and religious orders --  Rules --  Early works to 1800.</term>
+               <term>Monasticism and religious orders for women --  Rules --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191555:1"/>
+            <p>THE RVLE OF THE RELIGIOVS, OF THE THIRDE ORDER OF SAINT FRANCIS, <hi> both ſexes, making the three vovves, and liuing together in Communitie and Cloyſter. VVith certaine other things vvhich the leaf follovving doth shevve.</hi>
+            </p>
+            <p>IHS.</p>
+            <p>AT BRVXELLES, By Ihon Pepermans, at the golden Bible, 1624.</p>
+            <pb facs="tcp:191555:2" rendition="simple:additions"/>
+            <pb facs="tcp:191555:2"/>
+            <pb facs="tcp:191555:3"/>
+            <pb facs="tcp:191555:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:191555:4"/>
+            <list>
+               <item>THE Bulle of Pope Leo the tenth, in vvhich is declared that the profeſſed Siſters of the third order of S. Fra<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>cis, living together in Communitie and Cloy<g ref="char:EOLhyphen"/>ſter having made the three vovves, are truly Religious and may en<g ref="char:EOLhyphen"/>ioye the privileges gran<g ref="char:EOLhyphen"/>ted to the Freers Minors.</item>
+               <item>
+                  <list>
+                     <pb n="3" facs="tcp:191555:4"/>
+                     <item>THe perfectio<g ref="char:cmbAbbrStroke">̄</g>s of the rule</item>
+                     <item>The prayſe of the rule.</item>
+                     <item>Three privileges which S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Francis obteined of God.</item>
+                     <item>Three other privileges gra<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>ted him.</item>
+                     <item>Seave<g ref="char:cmbAbbrStroke">̄</g> other priuileges gran<g ref="char:EOLhyphen"/>ted him.</item>
+                     <item>Certaine Indulgences gran<g ref="char:EOLhyphen"/>ted to S. Francis Order.</item>
+                     <item>An examin of conſcience for à Religious perſon.</item>
+                     <item>Twelue evilles which come by venial ſinne.</item>
+                     <item>Nine wayes by which we par<g ref="char:EOLhyphen"/>ticipate of others ſinnes.</item>
+                     <pb n="4" facs="tcp:191555:5"/>
+                     <item>Twelue fruictes of the bleſ<g ref="char:EOLhyphen"/>ſed Sacrament.</item>
+                     <item>Twelue Evangelical coun<g ref="char:EOLhyphen"/>ſels.</item>
+                     <item>The malediction of S. Fran<g ref="char:EOLhyphen"/>cis.</item>
+                     <item>The Litanies of our holie Father S. Francis.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="epigraphs">
+            <pb n="5" facs="tcp:191555:5"/>
+            <q>
+               <p>
+                  <hi>QVicumque hanc Regu<g ref="char:EOLhyphen"/>lam ſecuti fuerint, pax ſuper illos &amp; miſericor<g ref="char:EOLhyphen"/>dia.</hi> 
+                  <bibl>Gal. 6.16.</bibl>
+               </p>
+               <p>Whoſoever shall fol<g ref="char:EOLhyphen"/>lowe this rule, peace v<g ref="char:EOLhyphen"/>pon them, and mercie. <bibl>
+                     <hi>Galat.</hi> 6.16.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>
+                  <hi>Regula eſt, qua rectum probari ſolet: quam ſi fle<g ref="char:EOLhyphen"/>ctes, quicquid ex illa muta<g ref="char:EOLhyphen"/>ueris, iniuria est recti.</hi> 
+                  <bibl>Se<g ref="char:EOLhyphen"/>neca Epiſtola 72.</bibl>
+               </p>
+               <p>A rule is, that vvher<g ref="char:EOLhyphen"/>by the right vſeth to be proved: which if thovv
+<pb n="6" facs="tcp:191555:6"/>decline, whatſoever thow change of it, is iniurie to the right. <bibl>
+                     <hi>Seneca Epiſt.</hi> 72.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>
+                  <hi>Niſi ad Regulam, praua non corriges.</hi>
+               </p>
+               <p>Vnleſs by rule thou canſt not correct the vvrong.</p> 
+               <bibl>
+                  <hi>Epist.</hi> 11.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Regulam tuam gestabis per omne tempus vitae tuae. S.</hi> 
+                  <bibl>Athanaſius lib. de Vir<g ref="char:EOLhyphen"/>ginitate, tom. 3.</bibl>
+               </p>
+               <p>Thou shalt beare thy rule for al the time of thy life.</p>
+            </q>
+            <pb n="7" facs="tcp:191555:6"/>
+            <q>Hard, great, difficult, but great are the revvar<g ref="char:EOLhyphen"/>des. <bibl>
+                  <hi>S. Hierom. Epist. to Rustic. the monck.</hi>
+               </bibl>
+            </q>
+         </div>
+         <div type="prologue">
+            <pb n="8" facs="tcp:191555:7"/>
+            <head>THE PROLOGVE.</head>
+            <p>SAint Francis having a moſt feruent deſire to drawe al men to God of what ſtate or co<g ref="char:cmbAbbrStroke">̄</g>dition ſoeuer. Reſted not, but hauing or<g ref="char:EOLhyphen"/>deined for the men his firſt rule, called the Rule of the Freers Minors, and his ſe<g ref="char:EOLhyphen"/>cund Rule for women, called of S. Clare, hath alſo written the thirde Rule, called of Poenance, for retyred perſons remayning in the worlde,
+<pb n="9" facs="tcp:191555:7"/>Eccleſiaſtic, and ſaecular; ma<g ref="char:EOLhyphen"/>ried, and vnmaried; of both ſexes: confirmed by Pope Nicolas the fowerth. In this Order verie manie holie perſons haue liued, of which a great number are beatified, and ſome alſo Canonized in the holie church, as Saint Elizabeth, S. Ludovic, king of France. S. Iuo Prieſt, S. Elzearius, Count: through whoſe merites the order is verie much multiplied in al partes of the worlde. VVheras therfore great mul<g ref="char:EOLhyphen"/>titudes
+<pb n="10" facs="tcp:191555:8"/>of perſons, of both ſexes, are gathered toge<g ref="char:EOLhyphen"/>ther into ſeueral communi<g ref="char:EOLhyphen"/>ties, holding the foreſayd third rule, and after the maner of ſpiritual and Reli<g ref="char:EOLhyphen"/>gious people binding them ſelues with the three vowes, to witte, of obedience, Pouer<g ref="char:EOLhyphen"/>tie, and Chaſtitie, the ſame notwithſtanding hath been done by permiſsio<g ref="char:cmbAbbrStroke">̄</g> of the ſea Apoſtolic: which hath holden it for good, and all ſuch per<g ref="char:EOLhyphen"/>ſons lawfully profeſſed for true religious. Afterward
+<pb n="11" facs="tcp:191555:8"/>Leo the tenth Pope of that name, out of the firſt rule of Nicolas, aboue related, drewe the rule following and wrote it and co<g ref="char:cmbAbbrStroke">̄</g>firmed it, for all the religious of the third order, of both ſexes, liuing in com<g ref="char:EOLhyphen"/>munities and Cloyſters; in the forme enſuing, vvhich he wil of al to be obſerved. And wheras ſome people ha<g ref="char:EOLhyphen"/>ue been and as yet are found, who wil not acknowlege for religious the profeſſed of this third rule: it was neceſſarie at the end of the ſame rule,
+<pb n="12" facs="tcp:191555:9"/>heer ſet downe, to adde the Bul of the ſayde Leo the tenth, Pope, out of which it is manifeſt that euen before his time they haue been hol<g ref="char:EOLhyphen"/>den for true Religious, and that he wil alſo that all me<g ref="char:cmbAbbrStroke">̄</g> do acknowledge and hold them for ſuch, and that no man do co<g ref="char:cmbAbbrStroke">̄</g>tradict it, and other things he forbiddeth therein vnder paine of excommunication. He hath endued the fore ſai<g ref="char:EOLhyphen"/>de Religious with al priui<g ref="char:EOLhyphen"/>leges giuen and granted to the Freers Minors.</p>
+            <pb n="13" facs="tcp:191555:9"/>
+            <epigraph>
+               <q>
+                  <p>Omnia autem honeſte &amp; ſecundum ordinem fiant in vobis. 1. <hi>Cor.</hi> 14.40.</p>
+                  <p>
+                     <hi>But let al things be done ho<g ref="char:EOLhyphen"/>neſtly and according to or<g ref="char:EOLhyphen"/>der among you.</hi>
+                  </p>
+               </q>
+            </epigraph>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="14" facs="tcp:191555:10"/>
+            <head>IN THE NAME OF OVR LOR<g ref="char:EOLhyphen"/>de beginneth the rule of the thirde Order of S. Francis called the Order of Poenance.</head>
+            <opener>
+               <salute>To our beloued children the Bre<g ref="char:EOLhyphen"/>theren and Siſters of the third Order of S. Francis liuing in Congregation vnder the three eſſential vovves.</salute>
+               <signed>LEo the tenth Pope.</signed>
+               <salute>Belo<g ref="char:EOLhyphen"/>ued ſonnes, and daugh<g ref="char:EOLhyphen"/>ters,</salute>
+            </opener>
+            <pb n="15" facs="tcp:191555:10"/>
+            <p>health, and Apoſtolical benediction. Among other thinges committed to our charge and gouernment, thoſe chiefly do make vs ſo<g ref="char:EOLhyphen"/>licitous, by vvhich, the con<g ref="char:EOLhyphen"/>cupiſcenſes of the vvorld and flesh being brideled, the quiet ſtate of innocencie, and firſt peace giue<g ref="char:cmbAbbrStroke">̄</g> vs from heauen is knovven to be re<g ref="char:EOLhyphen"/>duced to his original ſtate and perfection.</p>
+            <p>Long ſince truly for this cauſe and reſpecte, Pope Nicolas the fovverth, our predeceſſor, confirmed and approued the third rule of S. Francis, vvhich he tear<g ref="char:EOLhyphen"/>med
+<pb n="16" facs="tcp:191555:11"/>of poenance, by vvhich the holie co<g ref="char:cmbAbbrStroke">̄</g>feſſor of Chriſt, ful of the ſpirite of God, la<g ref="char:EOLhyphen"/>bored to further the ſalua<g ref="char:EOLhyphen"/>tion of al faithful Chriſtia<g ref="char:EOLhyphen"/>nes.</p>
+            <p>But foraſmuch as by cour<g ref="char:EOLhyphen"/>ſe of time, through the in<g ref="char:EOLhyphen"/>ſpiration of the holie ghoſt, not only maried perſons, &amp; ſuch as dvvel in the vvorl<g ref="char:EOLhyphen"/>de, (for vvhom the foreſay<g ref="char:EOLhyphen"/>de third rule vvas made by S. Francis) but alſo quires of innumerable virgins ta<g ref="char:EOLhyphen"/>king vpon them the three eſſential vovves, and ſome alſo that of incloſure, by our authoritie, and hauing
+<pb n="17" facs="tcp:191555:11"/>builded verie manie mo<g ref="char:EOLhyphen"/>naſteries, not vvithout ma<g ref="char:EOLhyphen"/>nifold fruict and edification of the militant church, ſub<g ref="char:EOLhyphen"/>devved their necks vnder the yoake of the foreſayde third Order. And becauſe in the ſaide thirde rule, ſome things to maried perſons accomodated, are inſerted vvhich to ſingle, a<g ref="char:cmbAbbrStroke">̄</g>d virginal eſtate, vnder this third Rule ſeruing our lorde, are no vvayes conuenient, for vvhich the pure affectes of chaſt mindes, are novv &amp; then auerted from entring into the ſayde order; vvee according to the vvil of our
+<pb n="18" facs="tcp:191555:12"/>lorde, ſeparating the pre<g ref="char:EOLhyphen"/>tious from the vile, doe con<g ref="char:EOLunhyphen"/>firme anevv, &amp; approue, the ſame third rule diſtinguis<g ref="char:EOLhyphen"/>hed in maner, as follovveth and deliuer the ſame to you, and your ſucceſſores to be kept, the tenor vvherof fol<g ref="char:EOLhyphen"/>lovveth, and is ſuch.</p>
+            <div n="1" type="chapter">
+               <head>Of the entrance of Nouices. CHAP. I.</head>
+               <p>THe Brothers,
+<note place="margin">The con<g ref="char:EOLhyphen"/>diti<g ref="char:EOLhyphen"/>on of thoſe that are to be recei<g ref="char:EOLunhyphen"/>ued.</note> or ſiſters to this thirde Order to be receiued ought to be faithful Catholikes, not tyed in ma<g ref="char:EOLhyphen"/>riage, free of debtes, ſound
+<pb n="19" facs="tcp:191555:12"/>in bodie, prompt in minde, not taxed vvith anie vulgar infamie, reconciled vvith theyr neighbores. And of al<g ref="char:EOLunhyphen"/>thees things, before they be receiued, of him vvho hath facultie to receiue them, they are diligently to be ex<g ref="char:EOLhyphen"/>amined.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>Of the things which the Bro<g ref="char:EOLhyphen"/>thers and Siſters are to pro<g ref="char:EOLhyphen"/>miſs in the profeſsion of this third rule. CHAP. II.</head>
+               <p>THe Brothers, and Si<g ref="char:EOLunhyphen"/>ſters, after thay haue
+<pb n="20" facs="tcp:191555:13"/>for a vvhole yeare borne the habit of probation (vvhich ought to be of courſe cloath according to the iudgement of the viſitor) if their con<g ref="char:EOLhyphen"/>uerſation shal be thought laudable in the Conuent vvherin thei haue borne the habit of probation,
+<note place="margin">Of the habit of the Bro<g ref="char:EOLhyphen"/>thers and Si<g ref="char:EOLhyphen"/>ſters.</note> by the counſail of the diſcree<g ref="char:EOLhyphen"/>tes of the ſayde Convent, let them be receiued to the profeſſion of the ſayde or<g ref="char:EOLhyphen"/>der.
+<note place="margin">Of the for<g ref="char:EOLhyphen"/>me of their profe<g ref="char:EOLunhyphen"/>ſſion.</note> In vvhich profeſſion let them promiſs to keep the commandementes of God, and to make ſatisfaction for the tranſgreſſions, vvhich they shall commit againſt
+<pb n="21" facs="tcp:191555:13"/>this third Rule, vvhen of theyr prelates they shal be required, liuing in obedien<g ref="char:EOLhyphen"/>ce, vvithout proprietie, and in chaſtitie.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>Of the Faſte. CHAP. III.</head>
+               <p>THe Brothers, and Si<g ref="char:EOLhyphen"/>ſters, perpetually, on the ſeco<g ref="char:cmbAbbrStroke">̄</g>d, fourth, ſixt feries, and the ſabbath muſt eate no flesh except on the feaſt of the natiuitie of our lorde. And from the feaſt of al ſaintes vnto the reſurrectio<g ref="char:cmbAbbrStroke">̄</g> of our lorde euerie fourth
+<pb n="22" facs="tcp:191555:14"/>and ſixth ferie, they muſt be tyed to faſt. and likevvſe euerie ſixth ferie of the vvhole yeare. Alſo from the feaſt of S. Martin vnto the natiuitie of our lorde let them faſt euerie day, adioy<g ref="char:EOLhyphen"/>ning the lent of the vniuer<g ref="char:EOLhyphen"/>ſal church, till the reſurrec<g ref="char:EOLhyphen"/>tion of our lorde, vvhich neuertheleſs from quinqua<g ref="char:EOLhyphen"/>geſima they muſt begin. But on thoſe dayes in vvhich they faſt not, let them eat only tvvice a-day. Except that from the feaſt of Eaſter vnto the moneth of Octo<g ref="char:EOLhyphen"/>ber, thoſe that labour in pai<g ref="char:EOLhyphen"/>neful, or hard vvork may
+<pb n="23" facs="tcp:191555:14"/>eate thrice aday,
+<note place="margin">Of the labo<g ref="char:EOLhyphen"/>rers.</note> the dayes of faſt alvvaies excepted. Not vvithſtanding trauelers, in<g ref="char:EOLhyphen"/>firme, and vveake perſons in time, of neceſſitie may breake their faſt.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>Of the diuine office, and Prayer. CHAP. IV.</head>
+               <p>THe Brothers and Siſ<g ref="char:EOLhyphen"/>ters muſt in the church keepe ſilence,
+<note place="margin">Of ſilen<g ref="char:EOLhyphen"/>ce.</note> ſpecially vvhen maſs is celebrated, or the vvord of God propo<g ref="char:EOLhyphen"/>ſed. But in other places, let them keepe vvhat by their
+<pb n="24" facs="tcp:191555:15"/>ſuperiores concerning ſi<g ref="char:EOLhyphen"/>le<g ref="char:cmbAbbrStroke">̄</g>ce shal be ordeined them, they ought alſo euerie day in the euening, betvven them<g ref="char:EOLhyphen"/>ſelues, and God, to thinck vvhat they haue done, ſay<g ref="char:EOLhyphen"/>de,
+<note place="margin">Of maſs to be he<g ref="char:EOLhyphen"/>ard for cler<g ref="char:EOLhyphen"/>ckes. for laie.</note> or thought: And everie day (if they can comodiouſ<g ref="char:EOLhyphen"/>ly) they ought to heare maſs. And they muſt procure, that they haue a religious man, vvho on certe in dayes may propoſe to them the vvorde of God, and induce them to poenance and virtues. And he or she or they vvho by themſelues do knovve to ſay the Canonical hovvres, ought to fulfil the Canoni<g ref="char:EOLhyphen"/>cal
+<pb n="25" facs="tcp:191555:15"/>hovvres according to the vſe of the holie Roma<g ref="char:EOLhyphen"/>ne church. But thoſe that do not knovve hovve to ſay the Canonical hovvres, let them ſay tvvelue Pater noſters for matines, and for everie one of the other hovvres ſeaue<g ref="char:cmbAbbrStroke">̄</g>, adding <hi>Gloria Patri</hi> in the end of euerie Pater noſter, adding alſo <hi>Credo,</hi> and <hi>Mi<g ref="char:EOLhyphen"/>ſerere mei Deus,</hi> in the begin<g ref="char:EOLhyphen"/>ning of <hi>Prime</hi> a<g ref="char:cmbAbbrStroke">̄</g>d of <hi>Complet.</hi> and vvho knovve not thees fore ſayde things, muſt ſay three times, the Pater noſter, for poenance. And as often as they take dinner, or mea<g ref="char:EOLhyphen"/>te, they ought to giuet han<g ref="char:EOLhyphen"/>kes
+<pb n="26" facs="tcp:191555:16"/>to God. but of Sacra<g ref="char:EOLhyphen"/>mental confeſſion,
+<note place="margin">Of Con<g ref="char:EOLhyphen"/>feſſio<g ref="char:cmbAbbrStroke">̄</g> and Co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>mu<g ref="char:EOLhyphen"/>nion.</note> and re<g ref="char:EOLhyphen"/>ceiuing the ſacred Commu<g ref="char:EOLhyphen"/>nion; they shal keep the or<g ref="char:EOLhyphen"/>dination of Pope Nicolas the fovverth, that thrice in the yeare they confeſs, and Co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>municate, or elſe the ſtatu<g ref="char:EOLhyphen"/>tes of theyr ſuperiores heer vpon ordeined.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>Of the ordeyning of Prelates and Officers. CHAP. V.</head>
+               <p>EVerie houſe, if it shal be a Monaſterie of men, shal haue a Superior of this
+<pb n="27" facs="tcp:191555:16"/>fraternitie, vvho shal be called the Local miniſter. But if of vvomen, she shal be called the Mother: and they shal be choſen by their conuents, or inſtituted by theyr Prouincial ſuperiors, or General viſitor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo ne<g ref="char:EOLhyphen"/>uertheleſs,
+<note place="margin">Of their ſub<g ref="char:EOLhyphen"/>iectio<g ref="char:cmbAbbrStroke">̄</g> to the or<g ref="char:EOLhyphen"/>der of Fre<g ref="char:EOLhyphen"/>ers Mi<g ref="char:EOLhyphen"/>nores</note> that none be perpetual, but for a certein time. Which Miniſters, and Mothers shal obey in al things, vvich belong to this preſent rule, to the Pro<g ref="char:EOLhyphen"/>uincial miniſters of the or<g ref="char:EOLhyphen"/>der of Minores of B. S. Fran<g ref="char:EOLhyphen"/>cis and to the viſitors depu<g ref="char:EOLhyphen"/>ted by the ſame miniſters, as long as they shal be in
+<pb n="28" facs="tcp:191555:17"/>the ſayde offices. But as con<g ref="char:EOLhyphen"/>cerning other offices vvi<g ref="char:EOLhyphen"/>thin the hovvſe, they shal keepe theyr ovvne ſtatutes.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>Of the maner of Converſing within and without. CHAP. VI.</head>
+               <p>WHeras the Brothers and ſiſters of this fra<g ref="char:EOLhyphen"/>ternitie are called of poena<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ce,
+<note place="margin">Of the qua<g ref="char:EOLhyphen"/>litie of their veſtu<g ref="char:EOLunhyphen"/>re.</note> it behoueth them to ab<g ref="char:EOLhyphen"/>ſtaine from al curioſitie, aſ<g ref="char:EOLhyphen"/>vvel in veſture, as other things vvhat ſoeuer. And according to the vvholſo<g ref="char:EOLhyphen"/>me counſel of the prince of
+<pb n="29" facs="tcp:191555:17"/>the Apoſteles Saint Peter, o<g ref="char:EOLhyphen"/>ther vaine orname<g ref="char:cmbAbbrStroke">̄</g>ts of this vvorlde layde aſyde, they ought to carie no corporal ornament, but only an hum<g ref="char:EOLhyphen"/>ble, and neceſſarie tegume<g ref="char:cmbAbbrStroke">̄</g>t of theyr bodie. They ought alſo to auoyd by all meanes acceſs to the courtes of Princes, lordes, or ladies vvhere the delicacies of this vvorlde are had; as our ſa<g ref="char:EOLhyphen"/>uior doth vvitnes;
+<note place="margin">Of the ſpa<g ref="char:EOLhyphen"/>ring of ſpe<g ref="char:EOLhyphen"/>ach.</note> Nor euer at onie time to be preſent at dances, playes, ſportes, and other vanities of players. They muſt alſo be ſparing in vvordes, and ſpeaches vvhich ſeeldom vvithout
+<pb n="30" facs="tcp:191555:18"/>ſinne are multiplyed. And aboue al things they muſt abſtaine from euerie lye, a<g ref="char:cmbAbbrStroke">̄</g>d vvhatſo euer oath, accor<g ref="char:EOLhyphen"/>ding to the commande<g ref="char:EOLunhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t of our lorde, vnleſs it be for peace, fidelitie, calumnie, and giuing teſtimonie. And euerie day at evening a<g ref="char:EOLhyphen"/>mong other things they ought examine themſelues, if either lye, or anie oath they haue made, and for euerie one they muſt ſay three times Pater noſter.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="31" facs="tcp:191555:18"/>
+               <head>Of the viſitation, and care of the ſicke. CHAP VII.</head>
+               <p>IF anie Brother or ſiſter of this fraternitie shal fal into infirmitie, the Miniſter of the hovvſe, or Mother, once euerie day by them<g ref="char:EOLhyphen"/>ſelues, or by another perſon shal be bound to viſite the<g ref="char:cmbAbbrStroke">̄</g>. And of the commun goo<g ref="char:EOLhyphen"/>des, they shall diligently cauſe al thinges neceſſarie, to be miniſtred vnto them. let them be bound alſo to moue the ſicke perſon to
+<pb n="32" facs="tcp:191555:19"/>accept poenance, and to ma<g ref="char:EOLhyphen"/>ke a true co<g ref="char:cmbAbbrStroke">̄</g>verſion to God, by propoſing the neerneſs of death, and the diſtriction of the diuine iuſtice, and vvithal the diuine mercie.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>Of the viſitation vvhich the Prelates ought to make of the Brothers and Siſters. CHAP. VIII.</head>
+               <p>THe Prouincial miniſter of the Freers Minores, or the viſitor of the ſame order, to vvhom he shal
+<pb n="33" facs="tcp:191555:19"/>commit it, shal viſite euerie yeare, once only in euerie hovvſe, vvith prese<g ref="char:cmbAbbrStroke">̄</g>ce of the elders, and the viſitation made, he ought not to en<g ref="char:EOLhyphen"/>ter into the offices, or other invvard places of the Siſ<g ref="char:EOLhyphen"/>ters.
+<note place="margin">Of en<g ref="char:EOLhyphen"/>tran<g ref="char:EOLhyphen"/>ce of the enclo<g ref="char:EOLunhyphen"/>ſure.</note> And let neuer the viſi<g ref="char:EOLhyphen"/>tor himſelfe remaine alone and ſeparate vvith anie Siſ<g ref="char:EOLhyphen"/>ter. And the Miniſters, and Mothers, ought to tel the vi<g ref="char:EOLhyphen"/>ſitor, the defects vvhich vvant correction, like vviſe alſo the other Brothers,
+<note place="margin">Of the incor<g ref="char:EOLunhyphen"/>rigi<g ref="char:EOLhyphen"/>ble.</note> and Siſters. And if anie shal be incorrigible, by the iudge<g ref="char:EOLhyphen"/>ment of the diſcreetes of the hovvſe, as infectious cattel
+<pb n="34" facs="tcp:191555:20"/>let them be caſt out of the congregation.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>Of the Offices for the dead. CHAP. IX.</head>
+               <p>AFter that anie Brother or Siſter shalbe depar<g ref="char:EOLhyphen"/>ted out of this vvorlde,
+<note place="margin">Of ma<g ref="char:EOLhyphen"/>king exe<g ref="char:EOLhyphen"/>quies</note> the Miniſter, or Mother, shal take care that their exequies be ſolemnly celebrated: at vvhich, al the Brothers, or Siſters of anie hovvſe, vvhe<g ref="char:EOLhyphen"/>re they shal happen to dye, ought perſonally to be pre<g ref="char:EOLhyphen"/>ſent, nor to departe vntil the bodie be put into the graue.
+<pb n="35" facs="tcp:191555:20"/>And for the ſoule of everie one dead, vvithin eight day<g ref="char:EOLhyphen"/>es, let euerie Prieſt be bound to ſay one maſs, And they that can the pſalter, fifty pſalmes, but they that can not the pſalter, fiftie Pater noſters, and at the end of euerie one, <hi>Requiem aeternam.</hi> And at the end of euerie yeare, or vvithin euerie yea<g ref="char:EOLhyphen"/>re, euerie Prieſt ought to ſay three maſses for the de<g ref="char:EOLhyphen"/>ad, thoſe that can the pſal<g ref="char:EOLhyphen"/>ter, one pſalter, but thoſe that can not the pſalter, a hundred Pater noſters vvith <hi>Requiem aeternam,</hi> at the end of euerie one. And concer<g ref="char:EOLhyphen"/>ning
+<pb n="36" facs="tcp:191555:21"/>thees offices of the de<g ref="char:EOLhyphen"/>ad, and other diuine offices, in this preſent revve anne<g ref="char:EOLhyphen"/>xed, the care is impoſed on the Miniſters, and Mothers, that they be faithfully diſ<g ref="char:EOLhyphen"/>charged.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>Of the obligation of the things conteined in the rule. CHAP. X.</head>
+               <p>AL and euerie thing in this preſent rule con<g ref="char:EOLhyphen"/>teined, are counſels, to ſau<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more eaſilie the ſoules o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the vvayfaring. and none o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="37" facs="tcp:191555:21"/>them are obligatorie to ſin<g ref="char:EOLhyphen"/>ne mortal, or venial, vn<g ref="char:EOLhyphen"/>leſs, by humane or diuine lavve anie one should be out of ſome other reſpect obliged. The Brothers and Si<g ref="char:EOLhyphen"/>ſters are neuertheleſs obli<g ref="char:EOLhyphen"/>ged to do the poenances im<g ref="char:EOLhyphen"/>poſed vpon them by theyr ſuperiors, vvhen heer vpon they are required. they are obliged alſo, to the three eſſential vovves, pouertie, by hauing nothing in ſpe<g ref="char:EOLhyphen"/>cial: chaſtitie, becauſe af<g ref="char:EOLhyphen"/>ter the vovve they cannot contract matrimonie, nor vvithout tranſgreſſion, mix them ſelues in vices of the
+<pb n="38" facs="tcp:191555:22"/>flesh: and obedience, in as much as toucheth thoſe things, vvithout vvhich this fraternitie can not commo<g ref="char:EOLhyphen"/>diouſly be manteined. They are alſo bound to keep in<g ref="char:EOLhyphen"/>cloſure thoſe Siſters vvhich haue expreſly vovved to keep it, vvhich to al and euerie Conuent vve grant, ſo that the hoſpitalitie, and charitie, vvhich they are vvont to exerciſe vvith the infirme, do vvith reputation ſuffer no detriment.</p>
+               <closer>
+                  <dateline>Giuen at Rome at Saint Peters vnder the ring of the fisher, <date>the 20. day of Ianuarie 1521. in the 8. yeare of our Papacy.</date>
+                  </dateline>
+               </closer>
+               <pb n="39" facs="tcp:191555:22"/>
+            </div>
+            <div type="Papal_bull">
+               <head>THE BVL OF PO<g ref="char:EOLhyphen"/>PE LEO THE TENTH, wherin is declared that the profeſſed Siſters of the third order of ſaint Francis liuing together in co<g ref="char:cmbAbbrStroke">̄</g>munitie and cloy<g ref="char:EOLhyphen"/>ſter, hauing made the three vovves are true Religious, and endued vvith the priuileges giuen to the Freers Minors.</head>
+               <opener>
+                  <salute>To our vvelbeloued ſonn Chri<g ref="char:EOLhyphen"/>ſtopher, of the title of S. Marie of Aracoeli, Prieſt Cardinal.</salute>
+                  <pb n="40" facs="tcp:191555:23"/>
+                  <signed>LEO THE TENTH, POPE.</signed>
+                  <salute>TO our beloued Sonn, health and Apoſtolical benediction.</salute>
+               </opener>
+               <p>Thoſe things vvhich by the ſea Apoſtolic are knovve<g ref="char:cmbAbbrStroke">̄</g> to be provident<g ref="char:EOLhyphen"/>ly conſtituted, or deined, and declared, ſometimes the Roman Bishop, according as in our lorde he ſeeth pro<g ref="char:EOLhyphen"/>fitably to be expedient, hath accuſtomed, (vvhen it is de<g ref="char:EOLhyphen"/>manded of him) to approue, and of nevve to ordeine, and diſpoſe, leaſt the ſame in ſuc<g ref="char:EOLhyphen"/>ceſs of time be ſubiect to
+<pb n="41" facs="tcp:191555:23"/>impugnatio<g ref="char:cmbAbbrStroke">̄</g>. It is true indeed that hertofore Sixtus IV. of happie memorie, our prede<g ref="char:EOLhyphen"/>ceſſor hath eſtablished, and ordeined the Siſters of the third Order of S. Francis li<g ref="char:EOLhyphen"/>ving collegially by making the three eſſential vovves to be true Religious, and the vovve of obedience, pouer<g ref="char:EOLhyphen"/>tie, and chaſtitie, by the Si<g ref="char:EOLhyphen"/>ſters of the third Order of S. Francis, liuing collegially, then made in the handes of theyr Superiors, or by them for the time hereafter to be made, to haue the force, and validitie of a ſolemne vovve, and to induce euerie effect,
+<pb n="42" facs="tcp:191555:24"/>vvhich a ſole<g ref="char:cmbAbbrStroke">̄</g>ne vovve doth induce, made in vvhatſouer of the Religions approued by the Apoſtolick ſea, and to hinder matrimonie to be co<g ref="char:cmbAbbrStroke">̄</g>tracted, and to take avvay that vvhich is already con<g ref="char:EOLhyphen"/>tracted. And although vve in the ſacred Councel of La<g ref="char:EOLhyphen"/>teran laſt celebrated for co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſeruing of peace and vnitie betvven Prelates and Reli<g ref="char:EOLhyphen"/>gious perſonnes, the ſame ſacred Councel approuing it, haue profitably ordeined, vvilled, and decreed, that the Brothers and Siſters of the foreſaid third Order, bearing the habit therof,
+<pb n="43" facs="tcp:191555:24"/>and leading collegially vir<g ref="char:EOLhyphen"/>ginal, and vidual, or conti<g ref="char:EOLunhyphen"/>nent life by expreſs vovve, ought to enioy al the priui<g ref="char:EOLhyphen"/>leges of the Freers Minores, as in our and our foreſaid predeceſſores letters reſpec<g ref="char:EOLhyphen"/>tiuely is more fully contei<g ref="char:EOLhyphen"/>ned. Nevertheleſs, as your vigilancy hath lately related vnto vs, manie Praelates and Rectors of parish, churches chiefly in France, and Ger<g ref="char:EOLhyphen"/>manie affirme the ſayde ſiſ<g ref="char:EOLhyphen"/>ters not to be religious, and that therfore they can not enioy the fore ſayde priuile<g ref="char:EOLhyphen"/>ges, and do not permit them to haue oratories, and places
+<pb n="44" facs="tcp:191555:25"/>for burial, and in their ora<g ref="char:EOLhyphen"/>tories the Sacrament of the Euchariſt, and holie oyles, and to ſing maſſes, and make holie vvater, but as mere ſe<g ref="char:EOLhyphen"/>culars do endeuor to com<g ref="char:EOLhyphen"/>pel them to hear maſſes, and receiue the Sacraments of the church, in their pa<g ref="char:EOLhyphen"/>rish churches, to the great troble of the ſiſters, and ſca<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>dal of verie manie: vvher<g ref="char:EOLhyphen"/>fore you vvho execute the office of General miniſter of the ſayde order of Freers Minors by Apoſtolical gra<g ref="char:cmbAbbrStroke">̄</g>t, haue made humble ſuppli<g ref="char:EOLhyphen"/>cation to vs that vve vvould out of our Apoſtolikall Cle<g ref="char:EOLhyphen"/>mencie
+<pb n="45" facs="tcp:191555:25"/>vouchſafe to appro<g ref="char:EOLhyphen"/>ue, renevv and furthermore intirely to eſtablish the de<g ref="char:EOLhyphen"/>claration of Sixtus 4. and the brief therupon geuen; hence it is that vvee yeelding our conſent to ſuch your deſires, do by our Apoſtolick outhori<g ref="char:EOLunhyphen"/>tie, by the tenor of thees pre<g ref="char:EOLhyphen"/>ſents approue, and renevve, and decree that the ſayde declaration of the forena<g ref="char:EOLhyphen"/>med Sixtus our praedeceſſor vvith al, and everie clauſe therin conteyned ought to obteine the force of perpe<g ref="char:EOLhyphen"/>tual ſtabilitie. And moreo<g ref="char:EOLhyphen"/>ver to al and everie Praelate aſvvel regular, as ſaecular and
+<pb n="46" facs="tcp:191555:26"/>Rectores of parish churches and al other Eccleſiaſtical perſons, vnder paine of ex<g ref="char:EOLhyphen"/>communication lata ſenten<g ref="char:EOLhyphen"/>tia, vve forbidd that the ſay<g ref="char:EOLhyphen"/>de Siſters (vvhom according to the ordinance of our fo<g ref="char:EOLhyphen"/>reſaid predeceſſor, vve de<g ref="char:EOLhyphen"/>clare for true Religious) they do not heare after pre<g ref="char:EOLhyphen"/>ſume to hinder in vvhat ſort ſo euer, but that they accor<g ref="char:EOLhyphen"/>ding to the priuileges of the ſaide Brothers, may haue freely, and lavvefully, ora<g ref="char:EOLhyphen"/>tories vvith a lovve ſteeple and bel, and in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſame o<g ref="char:EOLhyphen"/>ratorie the Sacrament of the Euchariſt, in a comely, and
+<pb n="47" facs="tcp:191555:26"/>decent place, and alſo holie oyles for theyr ovvne vſe only, and halovved burial in vvhich the bodies of the Siſters deceſſed by theyr co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>feſſor may be buried, and in the ſame oratories holie vva<g ref="char:EOLunhyphen"/>ter to be ſolemnly made, a<g ref="char:cmbAbbrStroke">̄</g>d maſſes according to theyr deuotio<g ref="char:cmbAbbrStroke">̄</g> ſolemnly to be ſong and celebrated. And that to hear maſſes and other diui<g ref="char:EOLhyphen"/>ne offices in anie other pla<g ref="char:EOLhyphen"/>ce then in the ſayde orato<g ref="char:EOLhyphen"/>ries, or to receiue the Eccle<g ref="char:EOLhyphen"/>ſiaſtical Sacraments of an other, then the confeſſor ſecular, or regular by their ſuperiors to them aſſigned,
+<pb n="48" facs="tcp:191555:27"/>by no meanes, by the ſayde Prelates and Rectors or anie others to be compelled or any vvay for ſuch reſpect to be moleſted: and the con<g ref="char:EOLhyphen"/>feſſor him ſelfe, if he be ſe<g ref="char:EOLhyphen"/>cular, as long as he shal con<g ref="char:EOLhyphen"/>tinevve in the office of con<g ref="char:EOLhyphen"/>feſſor impoſed vpon him by his ſuperiors, cannot at al be hindred in the premiſſes by the ordinaries of the pla<g ref="char:EOLhyphen"/>ces. And notvvithſtanding to al and euerie the Arch<g ref="char:EOLhyphen"/>bishops, Bishops, and per<g ref="char:EOLhyphen"/>ſons conſtitute in Eccleſia<g ref="char:EOLhyphen"/>ſtical dignitie, Metropolita<g ref="char:EOLhyphen"/>nes alſo, or Canons of Ca<g ref="char:EOLhyphen"/>thedral churches, vvho heer<g ref="char:EOLhyphen"/>vpon
+<pb n="49" facs="tcp:191555:27"/>on the behalfe of the ſaide Siſters shal be requi<g ref="char:EOLhyphen"/>red, by thees preſents vve do commande, that they, or tvvo, or one of them by himſelf, or another, or ot<g ref="char:EOLhyphen"/>hers aſſiſting the ſayde ſiſters, or theyr hovvſes in the pre<g ref="char:EOLhyphen"/>miſſes, vvith ſafeguard of efficacious defenſe, do make them to enioy thees like pri<g ref="char:EOLhyphen"/>vileges in peacible poſſeſsio<g ref="char:cmbAbbrStroke">̄</g>, not permitting them heer<g ref="char:EOLhyphen"/>vpon by the ordinaries and Prelates and foreſaide Rec<g ref="char:EOLhyphen"/>tors, or vvhoſoeuer els vvrongfully to be moleſted, repreſsing the gayne-ſayers, &amp; disobedient a<g ref="char:cmbAbbrStroke">̄</g>d rebellious,
+<pb n="50" facs="tcp:191555:28"/>(al Appellation layd aſyde;) calling herunto alſo, if need shal be, the ayde of ſecular povver: vvhatſoeuer conſti<g ref="char:EOLhyphen"/>tutions, Apoſtolical ordinan<g ref="char:EOLhyphen"/>ces or other of any ſort, to theſe contrarie notvvithſtan<g ref="char:EOLhyphen"/>ding. And becauſe it vvold be hard for thees preſent let<g ref="char:EOLunhyphen"/>ters to be ſent originally to al prouinces, vve vvil, that to the copies of them ſub<g ref="char:EOLhyphen"/>ſcribed by the hand of a pu<g ref="char:EOLhyphen"/>blic Notarie, and firmed vvith the ſeale of anie perſon conſtitute in Eccleſiaſtical dignitie, the ſame credit be fully giuen in iudgement, and out of it, as if the origi<g ref="char:EOLhyphen"/>nals
+<pb n="51" facs="tcp:191555:28"/>preſent vvere shevved or exhibited. </p>
+               <closer>
+                  <dateline>Giuen at Ro<g ref="char:EOLhyphen"/>me at Saint Peters vnder the fishers ring, <date>the laſt day of Auguſt 1517. in the fifth year of our Papacie.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="52" facs="tcp:191555:29"/>
+               <head>
+                  <hi>THE PERFECTIONS OF THE RVLE CON<g ref="char:EOLhyphen"/>ſiſt in ſix Seraphicall VVin<g ref="char:EOLunhyphen"/>ges, to vvit, in totall</hi> O<g ref="char:EOLhyphen"/>bedience, <hi>in Euangeli<g ref="char:EOLhyphen"/>call</hi> Pouerty, <hi>in imma<g ref="char:EOLhyphen"/>culate</hi> Chaſtity, <hi>in pro<g ref="char:EOLhyphen"/>found</hi> Humility, <hi>in Pa<g ref="char:EOLhyphen"/>cificall</hi> Simplicity, <hi>in Se<g ref="char:EOLhyphen"/>raphicall</hi> Charity.</head>
+               <p>OBedience is a Vertue vvhich hath three degrees: the firſt is Obedience by profeſsion,
+<pb n="53" facs="tcp:191555:29"/>vvhich is vvhen one doth accomplish the command<g ref="char:EOLhyphen"/>ment of God, or the Prelate, touching the exteriour. The ſecond is Obedience by con<g ref="char:EOLhyphen"/>formity, vvchich is vvhen the commandment is per<g ref="char:EOLhyphen"/>formed not alone in the ex<g ref="char:EOLhyphen"/>terior, but alſo vvithout mur<g ref="char:EOLhyphen"/>muration, according to the intention and vvil of him that commandeth. The third is Obedience by vnion, by vvhich he that is truly Obe<g ref="char:EOLhyphen"/>dient, hath no other respect but the pleaſure and vvill of God.</p>
+               <p n="2">2. Euangelicall Pouerty is a vertue that hath three de<g ref="char:EOLhyphen"/>grees:
+<pb n="54" facs="tcp:191555:30"/>the firſt is Pouerty by Profeſsion, that is, to haue no right nor propriety in any thing vvhat ſoeuer: the ſe<g ref="char:EOLhyphen"/>cond, to retaine only the ſimple vſe of things neceſſa<g ref="char:EOLhyphen"/>ry, &amp; reſt contented vvith the moſt vile: the third, not to haue any affection, euen in thinges neceſſary, but by vvay of conſtraint to take the bare vſe of them.</p>
+               <p n="3">3. Chaſtity is a vertue that hath three degrees: the firſt, Chaſtity of body, by vvhich all the exteriour members are reſtrained from any im<g ref="char:EOLhyphen"/>pure or ſuſpicious act: the ſecond, chaſtity of hart, by
+<pb n="55" facs="tcp:191555:30"/>vvhich the hart is preſerued from any dishoneſt or vn<g ref="char:EOLhyphen"/>cleane thought: the third, Chaſtity of the ſpirit by vvhich vve not o<g ref="char:cmbAbbrStroke">̄</g>ly refraine from any dishoneſt loue, but alſo from al exceſsiue delec<g ref="char:EOLhyphen"/>tation or ſpirituall conſola<g ref="char:EOLhyphen"/>tion.</p>
+               <p n="4">4. Humility is a vertue that hath three degrees: the firſt is, Humility of knovv<g ref="char:EOLhyphen"/>lege, by the vvhich man doth acknovvledge to be vile and abiect in himſelfe: the ſecond is Humility of ex<g ref="char:EOLunhyphen"/>hibition, by vvhich the inte<g ref="char:EOLhyphen"/>riour humility is expreſſed in the exteriour, as by the
+<pb n="56" facs="tcp:191555:31"/>attire, by vvordes, and by vvil, and abiect vvorkes: the third is Humility of affectio<g ref="char:cmbAbbrStroke">̄</g>, through vvhich a ſoule doth not only humble herſelfe in the ſight of God, but alſo in the ſight of men, deſiring to be eſteemed poore &amp; abiect.</p>
+               <p n="5">5. Simplicity is a vertue vvhich hath three degrees: the firſt is ſimplicity of thoughts, that is, not to enter into higher cogitation then the vnderſtanding is capable of, neyther of honours and vvordly dignities, but to eſ<g ref="char:EOLhyphen"/>teeme himſelfe the moſt vn<g ref="char:EOLhyphen"/>vvorthy to ſerue God of all others: the ſecond is, Sim<g ref="char:EOLhyphen"/>plicity
+<pb n="57" facs="tcp:191555:31"/>in vvords, auoiding all affected curioſity in ſpe<g ref="char:EOLhyphen"/>ach, ſpeking plainly vvith<g ref="char:EOLhyphen"/>out ſuperfluity, vvhich ſtil comes of an ill roote, to vvit vanity: the third is Simpli<g ref="char:EOLhyphen"/>city of vvorks, imploying our ſelues in no other but ſuch as are ſimple and profi<g ref="char:EOLhyphen"/>table. And a generall rule of this Vertue is to haue a pure; right, and ſimple intention: but Simplicity vvithout Pru<g ref="char:EOLhyphen"/>dence is not of value: for God loueth thoſe that vval<g ref="char:EOLhyphen"/>ke in Prudence.</p>
+               <p n="6">6. Charity is a vertue of three degrees: the firſt is to lone God not only for his
+<pb n="58" facs="tcp:191555:32"/>benefits, but alſo for that he is moſt vvorthy of it: the ſe<g ref="char:EOLhyphen"/>cond, is to loue our neigh<g ref="char:EOLhyphen"/>bour, not only for the loue of our neighbour but ſimply for the loue of God: the third to loue our ſelues in labou<g ref="char:EOLhyphen"/>ring for vertue, our happi<g ref="char:EOLhyphen"/>nes, and glory; not for our ovvne reſpect but for the loue of God, and to be plea<g ref="char:EOLhyphen"/>ſing vnto him.</p>
+            </div>
+            <div type="part">
+               <head>Prayſe of the Rule.</head>
+               <p>THe holy Father S. Fran<g ref="char:EOLhyphen"/>cis, encouraging his Re<g ref="char:EOLhyphen"/>ligious to the obſeruance of the Rule, ſaid It vvas the
+<pb n="59" facs="tcp:191555:32"/>booke of life: the fruit of vviſdom: the marrovv of the Ghoſpell: the hope of he<g ref="char:EOLhyphen"/>alth: the path of ſaluation, the ladder by vvhich one aſ<g ref="char:EOLhyphen"/>cendeth to heauen: the key of Paradiſe: and the pledge of Eternall Peace.</p>
+            </div>
+            <div type="part">
+               <head>Three Priuiledges, vvhich our holy Father Saint Fra<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>cis obtayned of Almighty God.</head>
+               <p>POpe Gregorie the Ninth ſaid he had vnderſtood of the holy Father S. Fran<g ref="char:EOLhyphen"/>cis, that Almighty God had
+<pb n="60" facs="tcp:191555:33"/>graunted him three Priui<g ref="char:EOLhyphen"/>ledges: the firſt that the mo<g ref="char:EOLhyphen"/>re the Religious of his order did increaſe, the more he vvould prouide for them: the ſecond that none should euer vnhappily dye in the habit; the third that vvho<g ref="char:EOLhyphen"/>ſoeuer should perſecute his Order should be grieuou<g ref="char:EOLhyphen"/>ſly punished by Almighty God.</p>
+            </div>
+            <div type="part">
+               <pb n="61" facs="tcp:191555:33"/>
+               <head>Three other Priuiledges w<g ref="char:EOLhyphen"/>hich he ſayd to haue recea<g ref="char:EOLunhyphen"/>ued by the Seraphim, when as he appeared vnto him, in the mountayne of Al<g ref="char:EOLhyphen"/>uerne.</head>
+               <p>THe firſt, that his order should laſt to the day of Iudgment: the ſecond that vvhoſoeuer vvould liue vvic<g ref="char:EOLunhyphen"/>kedly in the Order should not indure long: the third that vvhoſoeuer did loue his Order although a great ſin<g ref="char:EOLhyphen"/>ner, he should receaue and obtaine mercy of Almighty God.</p>
+            </div>
+            <div type="part">
+               <pb n="62" facs="tcp:191555:34"/>
+               <head>Seauen other Priuiledges vvhich by an Angel vve<g ref="char:EOLhyphen"/>re reuealed vnto the holy F. S. Francis in the Coue<g ref="char:cmbAbbrStroke">̄</g>t of S. Vrbane, to all that obſerued his Rule and dy<g ref="char:EOLhyphen"/>ed in the Order.</head>
+               <p>THe firſt, that if their in<g ref="char:EOLhyphen"/>tention be good, they shal euer be gouerned by the holy Ghoſt: the ſecond, that in this their perigrina<g ref="char:EOLhyphen"/>tion they shall ſtil be par<g ref="char:EOLhyphen"/>ticularly defended, &amp; in all their temptations alſo, from mortall ſinne: the third, that
+<pb n="63" facs="tcp:191555:34"/>the fire of Purgatory shall not detaine them after their death from the immediate inioying of euerlaſting glo<g ref="char:EOLhyphen"/>ry: the fourth, that they shall receaue in themſelues that promiſe of our Sauiour ma<g ref="char:EOLhyphen"/>de vnto his Apoſtles, of ſit<g ref="char:EOLhyphen"/>ting on the tvvelue ſeates to iudge the tribes of Iſrael: the fifth that ſuch as loue the Order Almighty God vvill increaſe his graces, and bleſſinges tovvardes them in this vvorld and the next: the ſixth, that thoſe vvho are enemies to his order, &amp; do perſecute it vvithout repen<g ref="char:EOLhyphen"/>ting, either their life shal be
+<pb n="64" facs="tcp:191555:35"/>shortned, or if it be long it shalbe replenished vvith mi<g ref="char:EOLunhyphen"/>ſery, and after their death be eternally loſt: the ſeaue<g ref="char:cmbAbbrStroke">̄</g>th that there shall euer be Re<g ref="char:EOLhyphen"/>ligious of good and holy li<g ref="char:EOLhyphen"/>fe, louers of the honor of God, &amp; their Religion, in this Order.</p>
+            </div>
+            <div type="part">
+               <head>Certayne Indulge<g ref="char:cmbAbbrStroke">̄</g>ces graun<g ref="char:EOLhyphen"/>ted amongst many others, by the ſouerayne Bishops of Rome, vnto all the Reli<g ref="char:EOLhyphen"/>gious of the Order of Saint Francis.</head>
+               <pb n="65" facs="tcp:191555:35"/>
+               <p>THe Religious both men and vvomen shal gaine a plenary both <hi>à paena &amp; culpa,</hi> from paine &amp; fault, on the daies of their Cloathing, Pro<g ref="char:EOLhyphen"/>feſſion, and article of death: alſo at the article of death, the Fathers &amp; Mothers of the ſaid Brothers &amp; Siſters may haue the ſame giuen them, by any lavvful Confeſſor.</p>
+               <p n="2">2. All the Religious that shall receaue the moſt holy Sacrament vpon all Sundayes throughout the yeare, all the feaſtes of our Bleſſed Saui<g ref="char:EOLhyphen"/>our, &amp; of our Bleſſed Lady, of the Saints of the Order, shall gaine a plenary Indul<g ref="char:EOLhyphen"/>gence,
+<pb n="66" facs="tcp:191555:36"/>And if it happen that any could not confeſſe &amp; communicate theſe dayes, their hindrance being lavv<g ref="char:EOLhyphen"/>full, they may gaine the ſame Indulgence if after being freed of that impediment, they confeſſe and communi<g ref="char:EOLhyphen"/>cate for that intention, not<g ref="char:EOLhyphen"/>vvithſtanding the day of the feaſt be paſt.</p>
+               <p n="3">3. The Religious vvho shall recite the Corone of our Lord, that is 33. <hi>Pater nosters,</hi> and <hi>Aue Maria,</hi> in honour of the 33 years he liued in the vvorld, or the Coronne or Roſary of the Glorious Virgin Mary, con<g ref="char:EOLhyphen"/>tayning
+<pb n="67" facs="tcp:191555:36"/>72. <hi>Aues</hi> vvith 7. <hi>Pa<g ref="char:EOLhyphen"/>ter nosters</hi> and one <hi>Pater no<g ref="char:EOLhyphen"/>ster</hi> and <hi>Aue</hi> for the Souerai<g ref="char:EOLhyphen"/>gne Bishop, do gaine plenary Indulgence, Like vviſe the ſame is graunted as often as they ſay the ſeauen Pſalms and Letanies, the Gradual Pſalms, the office of the dead, or aſſiſt at the Letanies of euery ſecond Sunday in the moneth.</p>
+               <p n="4">4. As often as the Religi<g ref="char:EOLhyphen"/>ous eyther by day or night, in vvhat place ſoeuer they be, shall recite ſix <hi>Pater no<g ref="char:EOLhyphen"/>sters</hi> and <hi>Aues,</hi> and <hi>Gloria Pa<g ref="char:EOLhyphen"/>tri,</hi> fiue for the neceſſities of the Church, and the ſixt for
+<pb n="68" facs="tcp:191555:37"/>the Popes Holines, shall gai<g ref="char:EOLhyphen"/>ne the Indulgences of the Stations of Hieruſalem, of Rome, of S. Iames, and of Portiuncula.</p>
+               <p n="5">5. Item reciting the Pſal<g ref="char:EOLhyphen"/>me <hi>Exaudiat te Dominus in die tribulationis &amp;c.</hi> three <hi>Pater nosters</hi> and <hi>Aues,</hi> for the Po<g ref="char:EOLhyphen"/>pes intention, they shallgaine all the Indulgences graunted by the Soueraigne Bishops, to the Confraternity of the Roſary, to the Churches of our Bleſſed Lady of Loreto, of Mont-ſerat, and of ſaint Ia<g ref="char:EOLhyphen"/>mes de Compoſtella.</p>
+               <p n="6">6. Euery time they ſay the <hi>Angelus Domini</hi> at the accu<g ref="char:EOLhyphen"/>ſtomed
+<pb n="69" facs="tcp:191555:37"/>time vvhe<g ref="char:cmbAbbrStroke">̄</g> it ringeth, a plenary Indulgence; and the like euery time they co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>municate. As often as they heare the Maſſe of the Con<g ref="char:EOLhyphen"/>ception of our Bleſſed Lady, praying for his Holinesa<g ref="char:cmbAbbrStroke">̄</g>d the vniuerſall Church, is graun<g ref="char:EOLhyphen"/>ted a Plenary indulge<g ref="char:cmbAbbrStroke">̄</g>ce, Say<g ref="char:EOLhyphen"/>ing the diuine office, or the office of our Bleſſed Lady, beſides all other Indulgence, they gaine 100. yeares of pardon.</p>
+               <p n="7">7. Saying once euery day one <hi>Pater noster</hi> and <hi>Aue Ma<g ref="char:EOLhyphen"/>ria,</hi> calling deuoutly three ti<g ref="char:EOLhyphen"/>mes vpon the Holy Name of Ieſus, they gaine 3000. yea<g ref="char:EOLhyphen"/>res
+<pb n="60" facs="tcp:191555:38"/>of pardon.</p>
+               <p n="8">8. It is graunted vnto the Siſters that foure times a yea<g ref="char:EOLhyphen"/>re they may haue a generall abſolution in ful remiſſion of their ſinnes vvhatſoeuer, and be reſtored to the eſtate of innocency, as fully as they could receaue it from his Ho<g ref="char:EOLhyphen"/>lines: &amp; the like is graunted them on euery feaſt of our Bleſſed Sauiour, our Bleſſed Lady, on the feaſt of S. Peter and S. Paul, S. Francis, Saint Clare, S. Catharine Queene and Martyr, the feaſt of All Saints, and euery day of the holy vveeke; yet notvvith<g ref="char:EOLhyphen"/>ſta<g ref="char:cmbAbbrStroke">̄</g>ding theſe graces vvil pro<g ref="char:EOLhyphen"/>fit
+<pb n="71" facs="tcp:191555:38"/>nothing, vnto thoſe vvho should vpon preſumption to gaine them, ſin more freely. They may apply all priuiled<g ref="char:EOLhyphen"/>ges and Indulgences graun<g ref="char:EOLhyphen"/>ted to themſelues, vnto the faithfull departed. Note that for the gayning of theſe or any indulgences is requiſite the applying of the intention for the ſame.</p>
+            </div>
+            <div type="part">
+               <head>An examen of Conſcience for a Religious Perſon.</head>
+               <p>WHat are his euill incli<g ref="char:EOLhyphen"/>nations and bad cuſto<g ref="char:EOLhyphen"/>mes, vvhence they proceed, &amp; vvhat vvarre &amp; exerciſe
+<pb n="72" facs="tcp:191555:39"/>he vſeth againſt them.</p>
+               <p n="2">2. What Paſſions moſt rai<g ref="char:EOLhyphen"/>gne in him, a<g ref="char:cmbAbbrStroke">̄</g>d by vvhat mea<g ref="char:EOLhyphen"/>nes he hath hitherto indea<g ref="char:EOLhyphen"/>uoured to mortify them.</p>
+               <p n="3">3. What are his principall, moſt frequent, and moſt trou<g ref="char:EOLhyphen"/>bleſome temptations, and hovv he hath hitherto beha<g ref="char:EOLhyphen"/>ued himſelf in them.</p>
+               <p n="4">4. If he be indifferent in accepting any imployment of the holy Religion, vvillin<g ref="char:EOLhyphen"/>gly accepting vvhatſoeuer is appointed him.</p>
+               <p n="5">5. Whether God be the only inte<g ref="char:cmbAbbrStroke">̄</g>tion of all his actio<g ref="char:cmbAbbrStroke">̄</g>s, or if he ſeeke proper commo<g ref="char:EOLhyphen"/>dity or praiſe in his vvorkes.</p>
+               <pb n="73" facs="tcp:191555:39"/>
+               <p n="6">6. Whether he doe not prefer exteriour matters, as good qualities and naturall gifts and graces, before the ſtudy of vertue and perfe<g ref="char:EOLhyphen"/>ction.</p>
+               <p n="7">7. If he deſire, and be moſt conte<g ref="char:cmbAbbrStroke">̄</g>ted his Superiours should haue knovvledge of all his faultes.</p>
+               <p n="8">8. If he be confident and open harted to his Superiours &amp; confer vvith them in any neceſſary occaſion of things touching the good of his ſou<g ref="char:EOLhyphen"/>le.</p>
+               <p n="9">9. Whether he be truly vnited by affection vnto his Superiours, or if he haue any
+<pb n="74" facs="tcp:191555:40"/>auerſion, &amp; from vvhence it proceedes.</p>
+               <p n="10">10. Whether he be not too familiar vvith ſome, and if that familiarity be not hurt<g ref="char:EOLhyphen"/>full to him ſelf and the other party, and if by that occaſion he looſe not time, &amp; diſedify others.</p>
+               <p n="11">11. If he loue and imbrace the interiour and exteriour mortifications, and rather thoſe matters that be humble &amp; abiect, then of eſteeme and credit.</p>
+               <p n="12">12. If he obſerue al his Rules &amp; Conſtitutions, of vvhich he maketh leſſe eſtee<g ref="char:EOLhyphen"/>me, &amp; for vvhat reaſon.</p>
+               <pb n="75" facs="tcp:191555:40"/>
+               <p n="13">13. If he deſire truly to be penitent for all his faultes, truly confeſſing them vvith ſtrong purpoſe of amende<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="14">14. If he make a particular examen euery day vpon one imperfectio<g ref="char:cmbAbbrStroke">̄</g> and vvith vvhat preparation he receaueth the holy Sacrament: and hovv he frequenteth the holy exerciſe of prayer.</p>
+               <p n="15">15 If his vvordes &amp; diſ<g ref="char:EOLhyphen"/>courſes in Recreatio<g ref="char:cmbAbbrStroke">̄</g> or other vviſe, as alſo vvith ſecular be of edification: hovv he obſer<g ref="char:EOLhyphen"/>ueth ſilence, and ſpendeth his time.</p>
+            </div>
+            <div type="part">
+               <pb n="76" facs="tcp:191555:41"/>
+               <head>Tvvelue great Euills vvhich come by Veniall ſinnes.</head>
+               <p>FIrſt, they doe ſo darken and obſcure the eyes of our vnderſtanding, that they cannot ſee almighty God. 2. They kill the feruour of di<g ref="char:EOLhyphen"/>lection and diuine Charity. 3. They hinder our prayers and petitions from being he<g ref="char:EOLhyphen"/>ard by God. 4. They defile and ſpotte the ſoule. 5. They contriſtate the holy Ghoſt, and reioice the enemy. 6. They depriue vs of the ſvveet and amiable familiarity of our Bleſſed Sauiour. 7. They
+<pb n="77" facs="tcp:191555:41"/>are a great cauſe and meanes of our fall into more grie<g ref="char:EOLhyphen"/>uous ſinnes. 8. They cauſe a ſoule to fall into great ſlouth and tepidity in all goodnes. 9. They vveaken exceedingly the forces of the ſoule, from reſiſting her bad inclinatio<g ref="char:cmbAbbrStroke">̄</g>s. 10. They incline our affectio<g ref="char:cmbAbbrStroke">̄</g>s and deſires to temporall mat<g ref="char:EOLhyphen"/>ters. 11. They prolong and augment the paines in pur<g ref="char:EOLhyphen"/>gatory. 12. They exceedingly hinder vs from ſeeing &amp; en<g ref="char:EOLhyphen"/>ioying the preſence of God.</p>
+            </div>
+            <div type="part">
+               <pb n="78" facs="tcp:191555:42"/>
+               <head>Nyne wayes by which we par<g ref="char:EOLhyphen"/>ticipate of the ſinnes of others.</head>
+               <p>BY Counſell. 2. By com<g ref="char:EOLhyphen"/>mandment. 3. By conſent. 4. By procuration or perſua<g ref="char:EOLhyphen"/>ſion. 5. By flattery 6. By hol<g ref="char:EOLhyphen"/>ding our peace of his fault of vvhome vve ought to haue care. 7. To diſſemble or not to reprehend, and hinder if vve be thereunto obliged. 8. In participating of the mat<g ref="char:EOLhyphen"/>ter, vvhereof ſuch a ſinne doth proceed. 9. In defending the fault of another.</p>
+            </div>
+            <div type="part">
+               <pb n="79" facs="tcp:191555:42"/>
+               <head>Twelue fruits of the B. Sa<g ref="char:EOLhyphen"/>crament.</head>
+               <p>IT not only maketh poſſi<g ref="char:EOLhyphen"/>ble but alſo moſt eaſy the forſaking and leauing of all earthly &amp; fading thinges.</p>
+               <p n="2">2. It cauſeth great profit &amp; aduancement in heauenly thinges.</p>
+               <p n="3">3. It rayſeth the ſoule a<g ref="char:EOLunhyphen"/>boue all things created.</p>
+               <p n="4">4. It inforceth the ſpirit vnto al good.</p>
+               <p n="5">5. It illuminateth and gi<g ref="char:EOLhyphen"/>ueth light to the vnderſtan<g ref="char:EOLhyphen"/>ding, in the knovvledge of God.</p>
+               <pb n="80" facs="tcp:191555:43"/>
+               <p n="6">6. It cauſeth an inflamed feruerous poſſeſſion of the pure loue of God alone.</p>
+               <p n="7">7. It is the conſummation of al vertue &amp; perfection.</p>
+               <p n="8">8. It giueth the ſoule poſ<g ref="char:EOLhyphen"/>ſeſſion of the treasury of all goods &amp; riches.</p>
+               <p n="9">9. It cauſeth a continuall interiour ioy.</p>
+               <p n="10">10. It indevveth her vvith a happy ſecurity &amp; aſſura<g ref="char:cmbAbbrStroke">̄</g>ce, in ſeeing him in vvhom she belieueth.</p>
+               <p n="11">11. A perfect peace begin<g ref="char:EOLhyphen"/>ning in this life &amp; co<g ref="char:cmbAbbrStroke">̄</g>tinuing for eternity.</p>
+               <p n="12">12. A parfaict vnion vvith Almighty God, vvherby the
+<pb n="81" facs="tcp:191555:43"/>ſoule is made participant of all diuine perfection.</p>
+            </div>
+            <div type="part">
+               <head>Twelue Euangelicall Coun<g ref="char:EOLhyphen"/>ſayles.</head>
+               <p>POuerty, vvherby a Religi<g ref="char:EOLhyphen"/>ous perſon is eſtranged from all terreſtriall things.</p>
+               <p n="2">2. Obedience vvithout vvhich no vertue is perfect.</p>
+               <p n="3">3. Chaſtity vvhich beanti<g ref="char:EOLhyphen"/>fieth and adorneth all other vertues.</p>
+               <p n="4">4. Charity tovvardes our enemies, vvherby all ſpiri<g ref="char:EOLhyphen"/>tuall infection of any ſinne is expelled.</p>
+               <p n="5">5. Manſuetude, vvhich (as
+<pb n="82" facs="tcp:191555:44"/>ſayth S. Ambroſe) is the me<g ref="char:EOLhyphen"/>dicine of the hart, vvherby the ſoule is illuminated by God Almighty, to knovv his ſecrets.</p>
+               <p n="6">6. Mercy, vvhich exten<g ref="char:EOLhyphen"/>deth it ſelfe to the help of e<g ref="char:EOLhyphen"/>uery one vvithout limite, en<g ref="char:EOLhyphen"/>treth ſvveetly into the hart vvith pitty, &amp; cleanſeth it from all ſinne.</p>
+               <p n="7">7. The ſimple vvord al<g ref="char:EOLhyphen"/>vvaies fructifying in God, in purity of intention, in chari<g ref="char:EOLhyphen"/>ty &amp;c.</p>
+               <p n="8">8. Shunning occaſio<g ref="char:cmbAbbrStroke">̄</g> of ſin<g ref="char:EOLhyphen"/>ne, co<g ref="char:cmbAbbrStroke">̄</g>ducting the ſoule vvith prudency, and ſecurity to the purchaſe of vertue.</p>
+               <pb n="83" facs="tcp:191555:44"/>
+               <p n="9">9. Right intention, vvhich maketh all vvorkes to pro<g ref="char:EOLhyphen"/>ceed of humility, to the edifi<g ref="char:EOLhyphen"/>cation of our neighbour.</p>
+               <p n="10">10. Co<g ref="char:cmbAbbrStroke">̄</g>formity of the vvor<g ref="char:EOLhyphen"/>ke vnto the vvord, vvherby all ſpecial inſtruction is ſeri<g ref="char:EOLhyphen"/>ouſly, &amp; vvith all profit ac<g ref="char:EOLhyphen"/>cepted.</p>
+               <p n="11">11. Auoiding of vn profita<g ref="char:EOLhyphen"/>ble ſolicitude, therby better to attend vnto ſpiritual illu<g ref="char:EOLhyphen"/>minations, vvhich are obſcu<g ref="char:EOLhyphen"/>red by earthly cares.</p>
+               <p n="12">12. Fraternal Correction, vvhich is a light that illumi<g ref="char:EOLhyphen"/>nateth the vnderſtanding, ac<g ref="char:EOLhyphen"/>cording to that of the Apoſt<g ref="char:EOLhyphen"/>le, ſaying, That vvhich is cor<g ref="char:EOLhyphen"/>rected
+<pb n="84" facs="tcp:191555:45"/>is made apparent by the light that follovveth.</p>
+            </div>
+            <div type="malediction">
+               <head>The Malediction of S. Francis.</head>
+               <p>BY thee O Eternall, and Heauenly Father, and all the celeſtial Court, and by me moſt Vnvvorthy, be ac<g ref="char:EOLhyphen"/>curſed all thoſe Brethren, vvho by their euill example doe ruine and deſtroy the thinges vvhich thou haſt bu<g ref="char:EOLhyphen"/>ilt, and ceaſeſt not build, by ſo many holy Brethren of this Order.</p>
+            </div>
+            <div type="quotations">
+               <pb n="85" facs="tcp:191555:45"/>
+               <q>
+                  <hi>Cum votum voueris, &amp;c.</hi>
+                  <bibl>
+                     <hi>Deut.</hi> 23.21.</bibl>
+                  <p>WHen thovv haſt vo<g ref="char:EOLhyphen"/>vved a vovve to our lorde thy God, thovv shalt not ſlacke to pay it: becauſe our lorde thy God vvill re<g ref="char:EOLhyphen"/>quire it. And if thovv delay, it shal be reputed to thee for ſinne. If thovv vvilt not pro<g ref="char:EOLhyphen"/>miſs, thovv shalt be vvithout ſinne. But that vvhich is once gone out of thy lippes, thovv shalt obſerue, and shalt do as thovv haſt promiſed to our lorde thy God, and haſt ſpo<g ref="char:EOLhyphen"/>ken vvith thy proper vvil, and thyne ovvne mouth.</p>
+               </q>
+               <pb n="86" facs="tcp:191555:46"/>
+               <q>Vovve ye, and render to our lorde your God. <bibl>
+                     <hi>Pſalm.</hi> 75.</bibl>
+               </q>
+               <q>They shal vovve vovves to our lorde, and pay them. <bibl>
+                     <hi>Iſa<g ref="char:EOLhyphen"/>as.</hi> 19.21.</bibl>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>Pſalm.</hi> 21.26.</bibl> I vvil render my vovves in the ſight of them that feare him.</q>
+               <q>
+                  <bibl>S. Bernarde in his treatie of precept and diſpenſation.</bibl> PErfect obedie<g ref="char:cmbAbbrStroke">̄</g>ce knovveth no lavve, it is not ſtreitned vvithin boundes: nor content vvith the breadth of our pro<g ref="char:EOLhyphen"/>feſſion, vvith larger vvil it is caried to al the latitude of charitie: and to al that is en<g ref="char:EOLhyphen"/>ioyned
+<pb n="87" facs="tcp:191555:46"/>free, by the vigor of a liberal and cheerful minde conſidering no mean: vnto infinite libertie is extended.</q>
+               <q>
+                  <bibl>Out of a treatie of S. Bernar<g ref="char:EOLhyphen"/>dine, to which the title is. <hi>Qui habendi Proprietarij.</hi> They violate their vovve and are proprietaries.</bibl>
+                  <p n="1">I. WHO vvhatſomever thing, or of vvhom<g ref="char:EOLhyphen"/>ſoeuer giuen, do hide in frau<g ref="char:EOLhyphen"/>de from their Prelate, or do not forthvvith reſtore it, vvhen he co<g ref="char:cmbAbbrStroke">̄</g>mandeth, either that it be reſtored, or lent, or
+<pb n="88" facs="tcp:191555:47"/>giuen to another.</p>
+                  <p n="2">2. Who change the vſe of things of the communitie in<g ref="char:EOLhyphen"/>to their proper vſe, or giue them to others, vvithout li<g ref="char:EOLhyphen"/>cence of the Prelate.</p>
+                  <p n="3">3. Who hide the key leaſt the Prelate take onie thing avvay, or othervviſe diſpoſe: and if onie thing be taken avvay, are trobled, and do murmur.</p>
+                  <p n="4">4. Who deliberately are of that minde, that if onie thing vvere taken avvay, or called back, they vvold not forthvvith yelde.</p>
+                  <p n="5">5. Who vvill not ſpend Almes depoſed or giuen for
+<pb n="89" facs="tcp:191555:47"/>their neceſſitie, but by a kind of prouidence for the time to come, or treaſuring, do re<g ref="char:EOLhyphen"/>ſerue it: ſeeking in the mean time more.</p>
+               </q>
+            </div>
+            <div type="litany">
+               <head>LITANIAE B. P. N. S. FRANCISCI.</head>
+               <list>
+                  <item>KYrie eleiſon.</item>
+                  <item>Chriſte eleiſon.</item>
+                  <item>Kyrie eleiſon.</item>
+                  <item>Chriſte audi nos.</item>
+                  <item>Chriſte exaudi nos.</item>
+                  <item>Pater de c<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>is Deus, Miſerere nobis.</item>
+                  <item>Fili Redemptor mundi Deus Miſerere nobis.</item>
+                  <pb n="90" facs="tcp:191555:48"/>
+                  <item>Spiritus ſancte Deus, Miſere<g ref="char:EOLhyphen"/>re nobis.</item>
+                  <item>Sancta Trinitas vnus Deus, Miſerere nobis.</item>
+                  <item>Sancte Franciſce, Pater ama<g ref="char:EOLhyphen"/>bilis, ora pro nobis.</item>
+                  <item>Pater admirabilis. ora.</item>
+                  <item>Pater benigne, ora.</item>
+                  <item>Pater venerabilis, ora.</item>
+                  <item>Vexillifer Ieſu Chriſti, ora.</item>
+                  <item>Eques Crucifixi, ora.</item>
+                  <item>Imitator filij Dei, ora.</item>
+                  <item>Seraphim ardens, ora.</item>
+                  <item>Fornax Charitatis, ora.</item>
+                  <item>Arca Sanctitatis ora.</item>
+                  <item>Cultor pacis, ora.</item>
+                  <item>Vas Puritatis, ora.</item>
+                  <item>Norma Iuſtitiae, ora.</item>
+                  <item>Speculum prudentiae, ora.</item>
+                  <pb n="91" facs="tcp:191555:48"/>
+                  <item>Regula Poenitentiae, ora.</item>
+                  <item>Magiſter Obedientiae, ora.</item>
+                  <item>Exemplar Virtutum, ora.</item>
+                  <item>Patriarcha Pauperum, ora.</item>
+                  <item>Profligator Criminum, ora.</item>
+                  <item>Lumen tuae Patriae, ora.</item>
+                  <item>Decus Morum, ora.</item>
+                  <item>Viuificator Mortuorum, ora.</item>
+                  <item>Saluator Famelicorum, ora.</item>
+                  <item>Obſequium Leproſorum, or.</item>
+                  <item>praeco magni Regis, ora.</item>
+                  <item>Forma Humilitatis, ora.</item>
+                  <item>Conſors Sublimitatis. ora.</item>
+                  <item>Victor Vitiorum, ora.</item>
+                  <item>Dux Minorum, ora.</item>
+                  <item>Praedicator Silueſtrium, ora.</item>
+                  <item>Portans dona Gloriae, ora.</item>
+                  <item>Auriga militiae noſtrae, ora.</item>
+                  <item>Nouis vtens Prodigijs, ora.</item>
+                  <pb n="92" facs="tcp:191555:49"/>
+                  <item>Caelum caecis aperiens, ora.</item>
+                  <item>Gratum gerens obſequium, ora pro nobis.</item>
+                  <item>Templum Chriſto conſecra<g ref="char:cmbAbbrStroke">̄</g>s, ora pro nobis.</item>
+                  <item>Hoſtes malignos proterens, ora pro nobis.</item>
+                  <item>Tenens vitae brauium, ora.</item>
+                  <item>Spargens virtutum munera, ora pro nobis.</item>
+                  <item>Amplians iter ad gloria<g ref="char:cmbAbbrStroke">̄</g>, ora.</item>
+                  <item>Agnus Dei qui tollis peccata mundi, Parce nobis Do<g ref="char:EOLhyphen"/>mine.</item>
+                  <item>Agnus Dei qui tollis peccata mundi, Exaudi nos Do<g ref="char:EOLhyphen"/>mine.</item>
+                  <item>Agnus Dei qui tollis peccata mundi, Miſerere nobis.</item>
+               </list>
+               <pb n="93" facs="tcp:191555:49"/>
+               <p>
+                  <hi>Verſ.</hi> Ora pro nobis Beate Pater Franciſce.</p>
+               <p>
+                  <hi>Reſp.</hi> Vt digni efficiamur promiſſionibus Chriſti.</p>
+            </div>
+            <div type="prayer">
+               <head>Oremus.</head>
+               <p>DEus qui Eccleſiam tuam Beati Franciſci meritis foetu nouae prolis amplificas: tribue nobis ex eius imitatio<g ref="char:EOLhyphen"/>ne terrena deſpicere, &amp; cae<g ref="char:EOLhyphen"/>leſtium donorum ſemper par<g ref="char:EOLunhyphen"/>ticipatione gaudere. Per Do<g ref="char:EOLhyphen"/>minum noſtrum, &amp;c. Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="approbation">
+            <pb facs="tcp:191555:50"/>
+            <head>APPROBATIO</head>
+            <p>IVſſu R. P. N. F. Andreae à Soto Sereniſs. Infanti Hiſ<g ref="char:EOLhyphen"/>paniarum à Confeſſionibus, Commiſſarij Generalis, re<g ref="char:EOLhyphen"/>gulam hanc Tertij Ordinis S. Franciſci ex Latino in idio<g ref="char:EOLhyphen"/>ma noſtrum Anglicanu<g ref="char:cmbAbbrStroke">̄</g> ver<g ref="char:EOLhyphen"/>ſam, cum adi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cta Bulla, ad exemplaria latina diligenter contuli, &amp; peromnia ijſdem conformem inueni. 30. Octo<g ref="char:EOLhyphen"/>bris, 1624.</p>
+            <p>
+               <hi>Ita Teſtor F. Bonauentura Frat. Minorum Anglorum, Duac. Guardianus.</hi>
+            </p>
+            <pb facs="tcp:191555:50"/>
+         </div>
+      </back>
+   </text>
+</TEI>
